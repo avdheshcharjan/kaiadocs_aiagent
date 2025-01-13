@@ -1,0 +1,3 @@
+[submodule "generative-ai-docs"]
+	path = generative-ai-docs
+	url = https://github.com/google/generative-ai-docs.git
